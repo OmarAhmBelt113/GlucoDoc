@@ -429,6 +429,16 @@ ChromaDB + Gemini
 
 This keeps the UI independent from the underlying RAG implementation.
 
+### Application Screenshots
+
+#### GlucoDoc Chat Interface
+
+![GlucoDoc chat interface](assets/test_2.png)
+
+#### Retrieved Evidence and Sources
+
+![Retrieved evidence and source details](assets/test_1.png)
+
 ---
 
 # ⚙️ Configuration
@@ -469,7 +479,7 @@ to `.gitignore`.
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/OmarAhmBelt113/GlucoDoc.git
 cd GlucoDoc
 ```
 
